@@ -506,6 +506,19 @@ studies as episodes accumulate.
 
 * * *
 
+## 💜 Donate
+
+If this saved you a bad short, a tip is appreciated.
+
+| token | network | address |
+|---|---|---|
+| **USDT** | **BNB Smart Chain (BEP20)** | `0x2f74e92620dbf20be51c7530bd96dd0a274c7d77` |
+
+> ⚠️ **BEP20 only.** Sending on any other network (ERC20, TRC20, …) will lose the
+> funds. Minimum 0.001 USDT.
+
+* * *
+
 ## 📄 License & disclaimer
 
 ISC. See `package.json`.
