@@ -1,8 +1,8 @@
 {
   "name": "parabolic-scanner",
   "version": "1.0.0",
-  "description": "**Port 8802** · `http://100.76.81.92:8802`",
-  "main": "index.js",
+  "description": "Standalone parabolic dump scanner for Gate.io crypto perps. Ranks and records; places no trades. API + dashboard on port 8802.",
+  "main": "scanner.cjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
