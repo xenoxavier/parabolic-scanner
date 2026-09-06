@@ -12,7 +12,7 @@ _It ranks and records — it never places a trade._
 ![trades](https://img.shields.io/badge/places%20trades-never-lightgrey?style=for-the-badge)
 ![license](https://img.shields.io/badge/license-ISC-green?style=for-the-badge)
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/comvibewithmir)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/richardcuyk)
 [![Donate USDT (BEP20)](https://img.shields.io/badge/Donate-USDT_BEP20-26A17B?style=for-the-badge&logo=tether&logoColor=white)](#-donate)
 
 [Overview](#-overview) ·
@@ -513,7 +513,7 @@ studies as episodes accumulate.
 
 If this saved you a bad short, a tip is appreciated.
 
-☕ **Buy Me a Coffee:** https://www.buymeacoffee.com/comvibewithmir
+☕ **Buy Me a Coffee:** https://www.buymeacoffee.com/richardcuyk
 
 | token | network | address |
 |---|---|---|
